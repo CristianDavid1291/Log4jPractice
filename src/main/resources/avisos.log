@@ -1,0 +1,45 @@
+[2022-05-20 16:52:22] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 16:52:22] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 16:52:22] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 16:52:22] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 16:53:08] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 16:53:08] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 16:53:08] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 16:53:08] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 16:53:33] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 16:53:33] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 16:53:33] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 16:53:33] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 16:54:00] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 16:54:10] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 16:54:10] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 16:54:10] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 16:54:10] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 17:07:14] [ DEBUG] [Demo2:12] I am debbuging
+[2022-05-20 17:07:14] [ DEBUG] [Demo2:13] Object is present
+[2022-05-20 17:07:14] [ INFO ] [Demo2:14] Object is not present
+[2022-05-20 17:07:14] [ FATAL] [Demo2:15] Fatal
+[2022-05-20 17:07:27] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:07:27] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:07:27] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:07:27] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 17:07:53] [ DEBUG] [Demo2:12] I am debbuging
+[2022-05-20 17:07:53] [ DEBUG] [Demo2:13] Object is present
+[2022-05-20 17:07:53] [ INFO ] [Demo2:14] Object is not present
+[2022-05-20 17:07:53] [ FATAL] [Demo2:15] Fatal
+[2022-05-20 17:12:25] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:12:25] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:12:25] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:12:25] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 17:12:50] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:12:50] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:12:50] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:12:50] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 17:13:36] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:13:36] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:13:36] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:13:36] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 17:14:02] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:14:02] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:14:02] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:14:02] [ FATAL] [Demo1:15] Fatal

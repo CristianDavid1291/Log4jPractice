@@ -1,0 +1,8 @@
+[2022-05-20 17:14:53] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:14:53] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:14:53] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:14:53] [ FATAL] [Demo1:15] Fatal
+[2022-05-20 17:15:17] [ DEBUG] [Demo1:12] I am debbuging
+[2022-05-20 17:15:17] [ DEBUG] [Demo1:13] Object is present
+[2022-05-20 17:15:17] [ INFO ] [Demo1:14] Object is not present
+[2022-05-20 17:15:17] [ FATAL] [Demo1:15] Fatal
